@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
+http://39909385360321276.ofkd0722.xyz:80/play/Esteban001/SxtdGH4BMqu/321276.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 HD
+http://39909385360321277.ofkd0722.xyz:80/play/Esteban001/SxtdGH4BMqu/321277.ts
